@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+  /* this helps to account the size of every border */
+}
+
+html{
+  font-size: 10px;
+  font-family: 'PT Sans', sans-serif;
+}
+
+body{
+  text-align: center;
+  background: linear-gradient(to right, #1d4264, #96b6d3);
+}
+
+h1{
+  font-size: 3rem;
+}
+
+h3{
+  font-size: 2rem;
+}
+
+ul{
+  font-size: 1.5rem;
+}
+
+ul li{
+  list-style-type: none;
+}
